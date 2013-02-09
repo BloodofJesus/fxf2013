@@ -1,0 +1,16 @@
+10:41:26 Heiken_Ashi_Smoothed NZDUSD,Daily: deinitialized
+10:41:26 Heiken_Ashi_Smoothed NZDUSD,Daily: uninit reason 1
+10:41:27 9Squared MM NZDUSD,Daily: deinitialized
+10:41:27 9Squared MM NZDUSD,Daily: uninit reason 1
+10:41:27 MACD_Complete NZDUSD,Daily: uninit reason 1
+10:41:27 Heiken_Ashi_Smoothed NZDUSD,Daily: removed
+10:41:27 9Squared MM NZDUSD,Daily: removed
+10:41:27 MACD_Complete NZDUSD,Daily: removed
+10:41:27 Heiken_Ashi_Smoothed GBPUSD,M30: deinitialized
+10:41:27 Heiken_Ashi_Smoothed GBPUSD,M30: uninit reason 1
+10:41:27 9Squared MM GBPUSD,M30: deinitialized
+10:41:27 9Squared MM GBPUSD,M30: uninit reason 1
+10:41:27 MACD_Complete GBPUSD,M30: uninit reason 1
+10:41:27 Heiken_Ashi_Smoothed GBPUSD,M30: removed
+10:41:27 9Squared MM GBPUSD,M30: removed
+10:41:27 MACD_Complete GBPUSD,M30: removed

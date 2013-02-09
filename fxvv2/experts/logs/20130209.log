@@ -1,0 +1,6 @@
+08:53:47 3_signal EURUSD,H1: loaded successfully
+08:53:47 3_signal EURUSD,H1 inputs: InitialTrailingStop=150; TrailingStop=150; trailingstop=150; mintrailingstop=500; mintrailingstopavgcosting=500; gmtoffset=11; createneworders=false; current_currency=false; pair_eurgbpusd=true; pair_euraudnzd=false; pair_gbpaudnzd=true; pair_nzdaudusd=true; pair_audnzdcad=false; pair_audnzdchf=false; pair_eurgbpjpy=true; pair_chfcadjpy=false; pair_audnzdjpy=false; pair_usdcadchf=false; closeonloss=false; magic=1234; max_orders=2; overall_max_orders=-1; lots=0.2; UseAlerts=true; UseEmailAlerts=true; filesave=true; create_avg_orders=true; magic1=1231; magic2=1232; magic3=1233; magic4=1235; new_strategy=true; 
+08:53:57 3_signal EURUSD,H1: initialized
+12:01:26 3_signal EURUSD,H1: deinitialized
+12:01:26 3_signal EURUSD,H1: uninit reason 4
+12:01:26 3_signal EURUSD,H1: removed

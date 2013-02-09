@@ -1,0 +1,40 @@
+19:40:28 Heiken_Ashi_Smoothed NZDUSD,Daily: loaded successfully
+19:40:28 9Squared MM NZDUSD,Daily: loaded successfully
+19:40:28 MACD_Complete NZDUSD,Daily: loaded successfully
+19:40:28 Heiken_Ashi_Smoothed NZDUSD,Daily: initialized
+19:40:28 9Squared MM NZDUSD,Daily: initialized
+19:40:28 MACD_Complete NZDUSD,Daily: initialized
+19:40:28 Heiken_Ashi_Smoothed GBPUSD,M30: loaded successfully
+19:40:28 9Squared MM GBPUSD,M30: loaded successfully
+19:40:28 MACD_Complete GBPUSD,M30: loaded successfully
+19:40:28 Heiken_Ashi_Smoothed GBPUSD,M30: initialized
+19:40:28 9Squared MM GBPUSD,M30: initialized
+19:40:28 MACD_Complete GBPUSD,M30: initialized
+20:03:02 Heiken_Ashi_Smoothed NZDUSD,Daily: deinitialized
+20:03:02 Heiken_Ashi_Smoothed NZDUSD,Daily: uninit reason 1
+20:03:02 9Squared MM NZDUSD,Daily: deinitialized
+20:03:02 9Squared MM NZDUSD,Daily: uninit reason 1
+20:03:02 MACD_Complete NZDUSD,Daily: uninit reason 1
+20:03:02 Heiken_Ashi_Smoothed NZDUSD,Daily: removed
+20:03:02 9Squared MM NZDUSD,Daily: removed
+20:03:02 MACD_Complete NZDUSD,Daily: removed
+20:03:02 Heiken_Ashi_Smoothed GBPUSD,M30: deinitialized
+20:03:02 Heiken_Ashi_Smoothed GBPUSD,M30: uninit reason 1
+20:03:02 9Squared MM GBPUSD,M30: deinitialized
+20:03:02 9Squared MM GBPUSD,M30: uninit reason 1
+20:03:02 MACD_Complete GBPUSD,M30: uninit reason 1
+20:03:02 Heiken_Ashi_Smoothed GBPUSD,M30: removed
+20:03:02 9Squared MM GBPUSD,M30: removed
+20:03:02 MACD_Complete GBPUSD,M30: removed
+20:03:09 Heiken_Ashi_Smoothed NZDUSD,Daily: loaded successfully
+20:03:09 9Squared MM NZDUSD,Daily: loaded successfully
+20:03:09 MACD_Complete NZDUSD,Daily: loaded successfully
+20:03:09 Heiken_Ashi_Smoothed NZDUSD,Daily: initialized
+20:03:09 9Squared MM NZDUSD,Daily: initialized
+20:03:09 MACD_Complete NZDUSD,Daily: initialized
+20:03:09 Heiken_Ashi_Smoothed GBPUSD,M30: loaded successfully
+20:03:09 9Squared MM GBPUSD,M30: loaded successfully
+20:03:09 MACD_Complete GBPUSD,M30: loaded successfully
+20:03:09 Heiken_Ashi_Smoothed GBPUSD,M30: initialized
+20:03:09 9Squared MM GBPUSD,M30: initialized
+20:03:09 MACD_Complete GBPUSD,M30: initialized

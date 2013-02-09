@@ -1,0 +1,103 @@
+22:13:02 3_signal EURUSD,H1: loaded successfully
+22:13:02 3_signal EURUSD,H1 inputs: InitialTrailingStop=150; TrailingStop=150; trailingstop=150; mintrailingstop=500; mintrailingstopavgcosting=500; gmtoffset=11; createneworders=false; current_currency=false; pair_eurgbpusd=true; pair_euraudnzd=false; pair_gbpaudnzd=true; pair_nzdaudusd=true; pair_audnzdcad=false; pair_audnzdchf=false; pair_eurgbpjpy=true; pair_chfcadjpy=false; pair_audnzdjpy=false; pair_usdcadchf=false; closeonloss=false; magic=1234; max_orders=2; overall_max_orders=-1; lots=0.2; UseAlerts=true; UseEmailAlerts=true; filesave=true; create_avg_orders=true; magic1=1231; magic2=1232; magic3=1233; magic4=1235; new_strategy=true; 
+22:13:07 3_signal EURUSD,H1: initialized
+22:13:19 Heiken_Ashi_Smoothed EURUSD,M1: loaded successfully
+22:13:25 Heiken_Ashi_Smoothed EURUSD,M1: initialized
+22:13:25 Heiken_Ashi_Smoothed EURUSD,M5: loaded successfully
+22:13:27 Heiken_Ashi_Smoothed EURUSD,M5: initialized
+22:13:27 Heiken_Ashi_Smoothed EURUSD,M15: loaded successfully
+22:13:28 Heiken_Ashi_Smoothed EURUSD,M15: initialized
+22:13:28 Heiken_Ashi_Smoothed EURUSD,M30: loaded successfully
+22:13:29 Heiken_Ashi_Smoothed EURUSD,M30: initialized
+22:13:29 Heiken_Ashi_Smoothed EURUSD,H1: loaded successfully
+22:13:29 Heiken_Ashi_Smoothed EURUSD,H1: initialized
+22:13:29 Heiken_Ashi_Smoothed EURUSD,H4: loaded successfully
+22:13:29 Heiken_Ashi_Smoothed EURUSD,H4: initialized
+22:13:29 Heiken_Ashi_Smoothed GBPUSD,M1: loaded successfully
+22:13:33 Heiken_Ashi_Smoothed GBPUSD,M1: initialized
+22:13:33 Heiken_Ashi_Smoothed GBPUSD,M5: loaded successfully
+22:13:37 Heiken_Ashi_Smoothed GBPUSD,M5: initialized
+22:13:38 Heiken_Ashi_Smoothed GBPUSD,M15: loaded successfully
+22:13:39 Heiken_Ashi_Smoothed GBPUSD,M15: initialized
+22:13:39 Heiken_Ashi_Smoothed GBPUSD,M30: loaded successfully
+22:13:39 Heiken_Ashi_Smoothed GBPUSD,M30: initialized
+22:13:39 Heiken_Ashi_Smoothed GBPUSD,H1: loaded successfully
+22:13:40 Heiken_Ashi_Smoothed GBPUSD,H1: initialized
+22:13:40 Heiken_Ashi_Smoothed GBPUSD,H4: loaded successfully
+22:13:40 Heiken_Ashi_Smoothed GBPUSD,H4: initialized
+22:13:40 Heiken_Ashi_Smoothed GBPAUD,M1: loaded successfully
+22:13:41 Heiken_Ashi_Smoothed GBPAUD,M1: initialized
+22:13:41 Heiken_Ashi_Smoothed GBPAUD,M5: loaded successfully
+22:13:42 Heiken_Ashi_Smoothed GBPAUD,M5: initialized
+22:13:42 Heiken_Ashi_Smoothed GBPAUD,M15: loaded successfully
+22:13:43 Heiken_Ashi_Smoothed GBPAUD,M15: initialized
+22:13:43 Heiken_Ashi_Smoothed GBPAUD,M30: loaded successfully
+22:13:43 Heiken_Ashi_Smoothed GBPAUD,M30: initialized
+22:13:43 Heiken_Ashi_Smoothed GBPAUD,H1: loaded successfully
+22:13:44 Heiken_Ashi_Smoothed GBPAUD,H1: initialized
+22:13:44 Heiken_Ashi_Smoothed GBPAUD,H4: loaded successfully
+22:13:44 Heiken_Ashi_Smoothed GBPAUD,H4: initialized
+22:13:44 Heiken_Ashi_Smoothed GBPNZD,M1: loaded successfully
+22:13:48 Heiken_Ashi_Smoothed GBPNZD,M1: initialized
+22:13:48 Heiken_Ashi_Smoothed GBPNZD,M5: loaded successfully
+22:13:49 Heiken_Ashi_Smoothed GBPNZD,M5: initialized
+22:13:49 Heiken_Ashi_Smoothed GBPNZD,M15: loaded successfully
+22:13:49 Heiken_Ashi_Smoothed GBPNZD,M15: initialized
+22:13:49 Heiken_Ashi_Smoothed GBPNZD,M30: loaded successfully
+22:13:50 Heiken_Ashi_Smoothed GBPNZD,M30: initialized
+22:13:50 Heiken_Ashi_Smoothed GBPNZD,H1: loaded successfully
+22:13:50 Heiken_Ashi_Smoothed GBPNZD,H1: initialized
+22:13:51 Heiken_Ashi_Smoothed GBPNZD,H4: loaded successfully
+22:13:51 Heiken_Ashi_Smoothed GBPNZD,H4: initialized
+22:13:51 Heiken_Ashi_Smoothed AUDUSD,M1: loaded successfully
+22:13:56 Heiken_Ashi_Smoothed AUDUSD,M1: initialized
+22:13:56 Heiken_Ashi_Smoothed AUDUSD,M5: loaded successfully
+22:13:58 Heiken_Ashi_Smoothed AUDUSD,M5: initialized
+22:13:58 Heiken_Ashi_Smoothed AUDUSD,M15: loaded successfully
+22:13:59 Heiken_Ashi_Smoothed AUDUSD,M15: initialized
+22:13:59 Heiken_Ashi_Smoothed AUDUSD,M30: loaded successfully
+22:14:00 Heiken_Ashi_Smoothed AUDUSD,M30: initialized
+22:14:00 Heiken_Ashi_Smoothed AUDUSD,H1: loaded successfully
+22:14:00 Heiken_Ashi_Smoothed AUDUSD,H1: initialized
+22:14:00 Heiken_Ashi_Smoothed AUDUSD,H4: loaded successfully
+22:14:00 Heiken_Ashi_Smoothed AUDUSD,H4: initialized
+22:14:00 Heiken_Ashi_Smoothed NZDUSD,M1: loaded successfully
+22:14:07 Heiken_Ashi_Smoothed NZDUSD,M1: initialized
+22:14:08 Heiken_Ashi_Smoothed NZDUSD,M5: loaded successfully
+22:14:15 Heiken_Ashi_Smoothed NZDUSD,M5: initialized
+22:14:15 Heiken_Ashi_Smoothed NZDUSD,M15: loaded successfully
+22:14:17 Heiken_Ashi_Smoothed NZDUSD,M15: initialized
+22:14:17 Heiken_Ashi_Smoothed NZDUSD,M30: loaded successfully
+22:14:18 Heiken_Ashi_Smoothed NZDUSD,M30: initialized
+22:14:18 Heiken_Ashi_Smoothed NZDUSD,H1: loaded successfully
+22:14:19 Heiken_Ashi_Smoothed NZDUSD,H1: initialized
+22:14:19 Heiken_Ashi_Smoothed NZDUSD,H4: loaded successfully
+22:14:19 Heiken_Ashi_Smoothed NZDUSD,H4: initialized
+22:14:19 Heiken_Ashi_Smoothed EURJPY,M1: loaded successfully
+22:14:24 Heiken_Ashi_Smoothed EURJPY,M1: initialized
+22:14:25 Heiken_Ashi_Smoothed EURJPY,M5: loaded successfully
+22:14:27 Heiken_Ashi_Smoothed EURJPY,M5: initialized
+22:14:27 Heiken_Ashi_Smoothed EURJPY,M15: loaded successfully
+22:14:28 Heiken_Ashi_Smoothed EURJPY,M15: initialized
+22:14:28 Heiken_Ashi_Smoothed EURJPY,M30: loaded successfully
+22:14:29 Heiken_Ashi_Smoothed EURJPY,M30: initialized
+22:14:29 Heiken_Ashi_Smoothed EURJPY,H1: loaded successfully
+22:14:29 Heiken_Ashi_Smoothed EURJPY,H1: initialized
+22:14:29 Heiken_Ashi_Smoothed EURJPY,H4: loaded successfully
+22:14:29 Heiken_Ashi_Smoothed EURJPY,H4: initialized
+22:14:29 Heiken_Ashi_Smoothed GBPJPY,M1: loaded successfully
+22:14:35 Heiken_Ashi_Smoothed GBPJPY,M1: initialized
+22:14:35 Heiken_Ashi_Smoothed GBPJPY,M5: loaded successfully
+22:14:42 Heiken_Ashi_Smoothed GBPJPY,M5: initialized
+22:14:43 Heiken_Ashi_Smoothed GBPJPY,M15: loaded successfully
+22:14:45 Heiken_Ashi_Smoothed GBPJPY,M15: initialized
+22:14:45 Heiken_Ashi_Smoothed GBPJPY,M30: loaded successfully
+22:14:46 Heiken_Ashi_Smoothed GBPJPY,M30: initialized
+22:14:47 Heiken_Ashi_Smoothed GBPJPY,H1: loaded successfully
+22:14:49 Heiken_Ashi_Smoothed GBPJPY,H1: initialized
+22:14:49 Heiken_Ashi_Smoothed GBPJPY,H4: loaded successfully
+22:14:49 Heiken_Ashi_Smoothed GBPJPY,H4: initialized
+22:15:18 3_signal EURUSD,H1: open #151313 buy 0.54 GBPNZD at 1.88349 ok
+22:15:20 3_signal EURUSD,H1: Alert: Bullish, Build 1.2: Level 2, Broker: FXVV Capital Markets Ltd., AccType Demo: 1 on GBPNZD @ H1
+22:17:55 3_signal EURUSD,H1: open #151314 buy 0.54 GBPNZD at 1.88297 ok
+22:17:57 3_signal EURUSD,H1: Alert: Bullish, Build 1.2: Level 3, Broker: FXVV Capital Markets Ltd., AccType Demo: 1 on GBPNZD @ H1
